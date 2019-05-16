@@ -1,0 +1,5 @@
+C:\Users\101212783\Documents\Visual Studio 2010\Projects\ExampleApplication\ExampleApplication\bin\Debug\ExampleApplication.dll
+C:\Users\101212783\Documents\Visual Studio 2010\Projects\ExampleApplication\ExampleApplication\bin\Debug\ExampleApplication.pdb
+C:\Users\101212783\Documents\Visual Studio 2010\Projects\ExampleApplication\ExampleApplication\obj\Debug\ExampleApplication.csprojResolveAssemblyReference.cache
+C:\Users\101212783\Documents\Visual Studio 2010\Projects\ExampleApplication\ExampleApplication\obj\Debug\ExampleApplication.dll
+C:\Users\101212783\Documents\Visual Studio 2010\Projects\ExampleApplication\ExampleApplication\obj\Debug\ExampleApplication.pdb
